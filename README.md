@@ -4,7 +4,7 @@ A sleek, animated weather dashboard with dynamic backgrounds and real-time data 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Now-green?style=for-the-badge)](https://iyoramu.github.io/modern-weather-dashboard-v1/)
 
-![Weather Dashboard Screenshot](https://via.placeholder.com/800x500/4361ee/ffffff?text=Weather+Dashboard+Screenshot)
+![Weather Dashboard](modern-weather-dashboard-v1.png)
 
 ## ✨ Features
 
