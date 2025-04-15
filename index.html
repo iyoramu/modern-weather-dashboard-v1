@@ -32,7 +32,6 @@
             align-items: center;
             padding: 20px;
             color: var(--dark);
-            overflow: hidden;
             position: relative;
         }
 
@@ -142,7 +141,6 @@
             backdrop-filter: blur(10px);
             border-radius: var(--border-radius);
             box-shadow: var(--box-shadow);
-            overflow: hidden;
             transition: all 0.3s ease;
             position: relative;
             z-index: 1;
@@ -297,6 +295,24 @@
             font-size: 0.9rem;
         }
 
+        .footer {
+            position: fixed;
+            bottom: 10px;
+            width: 50%;
+            border-radius: 3px;
+            text-align: center;
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.7);
+            z-index: 1000;
+            background-color: var(--dark);
+            font-weight: bold;
+        }
+
+        .footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
         @media (max-width: 600px) {
             .current-weather {
                 flex-direction: column;
@@ -344,6 +360,10 @@
                 <i class="fas fa-spinner fa-spin"></i> Detecting your location...
             </div>
         </div>
+    </div>
+
+    <div class="footer">
+        &copy; 2025 <a href="https://linkedin.com/in/iyoramu" target="_blank">IRUTABYOSE Yoramu</a>
     </div>
 
     <script>
