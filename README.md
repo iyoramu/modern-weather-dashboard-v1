@@ -75,9 +75,9 @@ async function getRealWeatherData(lat, lon) {
 
 MIT License
 
-Copyright (c) 2023 [IRUTABYOSE Yoramu]
+Copyright (c) 2023 [IRUTABYOSE Yoramu](https://linkedin.com/in/iyoramu)
 
 ---
 
-Made with ❤️ by [IRUTABYOSE Yoramu]  
+Made with ❤️ by [IRUTABYOSE Yoramu](https://linkedin.com/in/iyoramu)
 [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?style=flat&logo=github)](https://github.com/iyoramu/modern-weather-dashboard-v1)
